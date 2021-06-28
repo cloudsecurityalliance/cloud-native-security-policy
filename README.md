@@ -18,6 +18,9 @@ General areas/sub topics:
   * Operational use of encryption
   * Third party encryption
   * Device encryption
+* Fraud with respect to online sales
+  * Credit card fraud
+  * Account theft and fraud
 * Guest Access Policy
 * Incident Response Policy
   * Technical incidents (e.g. break in, ransomware)
