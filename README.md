@@ -11,8 +11,13 @@ General areas/sub topics:
   * OS/Software updates
   * Strong authenticastion to unlock
 * Confidential Data Policy
+  * Subset of Data Classification Policy?
 * Data Classification Policy
+  * Classification of assets
+  * Rules around storage, processing, transfer, downloads, etc.
 * Email Policy
+  * Use of email - sending / receiving
+  * Technical controls/requirements, e.g. SPF/DKIM/DMARC, anti spam, filtering
 * Encryption Policy
   * Developer use of encryption
   * Operational use of encryption
@@ -22,11 +27,14 @@ General areas/sub topics:
   * Credit card fraud
   * Account theft and fraud
 * Guest Access Policy
+  * Access of what specifically? Data? Systems? Network access?
 * Incident Response Policy
   * Technical incidents (e.g. break in, ransomware)
   * Financial incidents, e.g. use of stolen cards to purchase services/etc.
 * Mobile Device Policy
+  * Intersection with BYOD?
 * Network Access and Authentication Policy
+  * Intersection with BYOD?
 * Network Security Policy
   * Use of network services, e.g. HTTPS/HSTS requirements
 * Outsourcing Policy
