@@ -5,11 +5,11 @@ General areas/sub topics:
 * Acceptable Use Policy
 * Backup Policy
   * Use of cloud native storage like Google Drive, OneDrive, etc.
-  * Backup of organization data to personal storage (e.g. iCloud)
+  * Backup of organization data to personal storage, e.g. iCloud
 * Bring Your own Device Policy
   * Encryption
   * OS/Software updates
-  * Strong authenticastion to unlock
+  * Strong authentication to unlock
 * Confidential Data Policy
   * Subset of Data Classification Policy?
 * Data Classification Policy
@@ -29,7 +29,7 @@ General areas/sub topics:
 * Guest Access Policy
   * Access of what specifically? Data? Systems? Network access?
 * Incident Response Policy
-  * Technical incidents (e.g. break in, ransomware)
+  * Technical incidents, e.g. break in, ransomware
   * Financial incidents, e.g. use of stolen cards to purchase services/etc.
 * Mobile Device Policy
   * Intersection with BYOD?
@@ -50,4 +50,4 @@ General areas/sub topics:
 * User Acceptance Page VPN Policy
 * Wireless Access Policy
   * Use of organizational wireless resources
-  * Use of public wireless resources (e.g. coffee shops/conference WiFi)
+  * Use of public wireless resources, e.g. coffee shops/conference WiFi
