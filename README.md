@@ -1,4 +1,6 @@
-# Organization Security Policy
+# Cloud Native Security Policy
+
+More and more organizations are cloud native now, and they need a cloud native security policy.
 
 General areas/sub topics:
 
