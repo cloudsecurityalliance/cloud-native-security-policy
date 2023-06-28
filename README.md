@@ -5,8 +5,9 @@ More and more organizations are cloud native now, and they need a cloud native s
 General areas/sub topics:
 
 * Acceptable Use Policy
+* Bias / Discrimination Policy (especailly with respect to AI/etc.)
 * Backup Policy
-  * Use of cloud native storage like Google Drive, OneDrive, etc.
+  * Use of cloud native storage like Google Drive, OneDrive, etc (especially Team/Shared drives vs. your personal drive)
   * Backup of organization data to personal storage (e.g. iCloud)
 * Bring Your own Device Policy
   * Encryption
