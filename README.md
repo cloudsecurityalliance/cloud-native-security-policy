@@ -20,6 +20,8 @@ General areas/sub topics:
 * Data Classification Policy
   * Classification of assets
   * Rules around storage, processing, transfer, downloads, etc.
+* Disaster recovery
+  * Cold start documentation
 * Email Policy
   * Use of email - sending / receiving
   * Technical controls/requirements, e.g. SPF/DKIM/DMARC, anti spam, filtering
@@ -47,6 +49,9 @@ General areas/sub topics:
 * Password Policy
   * use of SSO, 2FA, MFA
   * Use of password managers
+* Security Reports policy
+* Bug Bounty policy
+* Privacy policy
 * Physical Security
 * Policy Remote Access Policy
 * Retention Policy
