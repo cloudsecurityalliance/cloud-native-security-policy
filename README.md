@@ -57,6 +57,7 @@ General areas/sub topics:
 * Retention Policy
 * Third Party Connection Policy
 * Use and Purchase of CLoud Services Policy
+* Security awareness and training
 * User Acceptance Page VPN Policy
 * Wireless Access Policy
   * Use of organizational wireless resources
